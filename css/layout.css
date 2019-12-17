@@ -28,13 +28,13 @@ header h1, header h2 {
     margin-left: 0;
 }
 #main {
-    padding: 0 12em 2em 2em;
+    padding: 0 2em 2em 12em;
     position: relative;
 }
 #sidebar {
     position: absolute;
     width: 10em;
-    right: 1em; 
+    left: 1em; 
     top: 1em;
 }
 #sidebar h3 {

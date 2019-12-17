@@ -83,3 +83,6 @@ footer p {
 footer p a:link, footer p a:visited {
     color: #DDDD00;
 }
+img:hover{
+background-color: red;
+}
