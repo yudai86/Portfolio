@@ -60,3 +60,7 @@ width: 100%;
 max-width: 960px;
 height: auto;
 }
+@media (max-width: 600px){
+#main{
+padding:0;
+}
