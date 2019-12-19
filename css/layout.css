@@ -36,7 +36,6 @@ header h1, header h2 {
     width: 10em;
     left: 1em; 
     top: 1em;
-    visibility: hidden;
 }
 #sidebar h3 {
     margin: 0;
@@ -64,4 +63,7 @@ height: auto;
 @media (max-width: 600px){
 #main{
 padding:0;
+}
+#sidebar
+visibility: hidden;
 }
